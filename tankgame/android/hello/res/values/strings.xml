@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">tank</string>
+    <string name="hello_world">喜欢那样的游戏，和那时玩游戏的心情。</string>
+    <string name="menu_settings">Settings</string>
+     <string name="start">开始</string>
+     <string name="dec_title">                  90坦克AT   </string>
+     <string name="detail">详细</string>
+</resources>
